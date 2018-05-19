@@ -1,0 +1,10 @@
+.top20 { margin-top: 20px; }
+.logo {margin-right: 10px;}
+.padding5 { padding:5px; }
+.padding10 {padding: 10px;}
+.border1 {border: 1px solid #000000;}
+.bg-blue {	background-color: #0095ffa6; }
+.bg-red {	background-color: #ff000075; }
+.bg-green {	background-color: #00ff5aa6; }
+.nobullets {list-style: none;}
+.sidebyside {float: left; padding-left: 14px; padding-top: 14px;}
